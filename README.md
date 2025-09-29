@@ -1,4 +1,5 @@
 **1. Capstone Project 1**
+
 📌 **Project Overview**
 Đây là một dự án phân tích và xây dựng hệ thống gợi ý khóa học trên nền tảng Udemy. Mục tiêu là vừa phân tích tình hình kinh doanh, xu hướng học tập, vừa áp dụng machine learning để phát triển mô hình gợi ý thông minh hỗ trợ người dùng chọn khóa học phù hợp.
 
