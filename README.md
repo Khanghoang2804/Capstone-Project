@@ -1,7 +1,7 @@
 # Capstone Project 1
 
 ## 📌 Project Overview
-Đây là một dự án phân tích và xây dựng hệ thống gợi ý khóa học trên nền tảng **Udemy**. Mục tiêu là vừa phân tích tình hình kinh doanh, xu hướng học tập, vừa áp dụng **machine learning** để phát triển mô hình gợi ý thông minh hỗ trợ người dùng chọn khóa học phù hợp.
+Đây là một dự án nhóm nhằm thực hiện phân tích và xây dựng hệ thống gợi ý dựa trên dữ liệu khóa học của nền tảng **Udemy**. Mục tiêu là vừa phân tích tình hình kinh doanh, xu hướng học tập, vừa áp dụng **machine learning** để phát triển mô hình gợi ý thông minh hỗ trợ người dùng chọn khóa học phù hợp.
 
 ---
 
@@ -30,13 +30,13 @@
   - **K-Means Clustering**  
 - **Kết quả**: mô hình **SVD + NN** vượt trội, loại bỏ nhiễu tốt hơn.  
 
-### 4. Ứng dụng Web & LLM
-- Xây dựng giao diện web bằng **Streamlit**.  
+### 4. Ứng dụng 
+- Xây dựng giao diện đơn giản sử dụng **Streamlit**.  
 - Cho phép người dùng nhập sở thích → hệ thống gợi ý khóa học tương tự.  
 - Tích hợp **Google Gemini** để giải thích lý do nên chọn các khóa học.  
 
 ### 5. Hạn chế
-- Dữ liệu bị giới hạn do thời gian crawl lâu (1–2 phút/khóa).  
+- Dữ liệu bị giới hạn do thời gian crawl là khá lớn.  
 - Chưa triển khai được mô hình **RAG chatbot** do thiếu dữ liệu văn bản mô tả sâu.  
 - Quá trình thực hiện chưa có **pipeline tối ưu** → mất nhiều thời gian xử lý.  
 
