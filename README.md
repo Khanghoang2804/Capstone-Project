@@ -1,4 +1,4 @@
-# Capstone Project 1
+# Capstone Project 1 Udemy Market Analysis
 
 ## 📌 Project Overview
 Đây là một dự án nhóm nhằm thực hiện phân tích và xây dựng hệ thống gợi ý dựa trên dữ liệu khóa học của nền tảng **Udemy**. Mục tiêu là vừa phân tích tình hình kinh doanh, xu hướng học tập, vừa áp dụng **machine learning** để phát triển mô hình gợi ý thông minh hỗ trợ người dùng chọn khóa học phù hợp.
